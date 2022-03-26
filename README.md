@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ineslima98
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning Javascript 
-- 💞️ I’m looking to collaborate on front-end development projects
+- 👋 Hi, I’m Inês
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently studying for my Network+ certificate 
+- 💞️ I’m looking to learn more about the industry and make connections
 - 📫 How to reach me: ines_lima98@hotmail.com
 
 <!---

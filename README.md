@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Inês
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently studying for my Network+ certificate 
-- 💞️ I’m looking to learn more about the industry and make connections
+- 👀 I’m interested in full-stack development and cloud
+- 🌱 I’m currently learning how to code
+- 💞️ I’m looking to know more about the industry and make connections
 - 📫 How to reach me: ines_lima98@hotmail.com
 
 <!---

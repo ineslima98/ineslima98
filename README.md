@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Inês
-- 👀 I’m interested in full-stack development and cloud
-- 🌱 I’m currently learning how to code
+- 👀 I’m interested in defensive cybersecurity
+- 🌱 I’m currently working on building a home lab
 - 💞️ I’m looking to know more about the industry and make connections
 - 📫 How to reach me: ines_lima98@hotmail.com
 
